@@ -41,7 +41,9 @@ export default {
     border-radius: 10px;
     right: 0;
     position: absolute;
-    left:123px
+    left:123px;
+    border: #603813;
+    
 }
 
 .crtbtn{
@@ -49,7 +51,8 @@ export default {
     color: white;
     border-radius: 10px;
     position: absolute;
-    left:300px
+    left:300px;
+    border: #c65800;
     
 }
 .zsd{

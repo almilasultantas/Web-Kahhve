@@ -3,7 +3,7 @@
     <div class="center" >
       <button class="bigbttn length">
         <div>
-          <button class="smallbttn">GİRİŞ</button>
+          <button class="smallbttn"  >GİRİŞ</button>
           <button class="smallbttn">KAYIT OL</button>
         </div>
       </button>
@@ -50,11 +50,13 @@ export default {
 .bigbttn {
   border-radius: 10px;
   background-color: #c65800;
+  border: #c65800;
   cursor: not-allowed;
 }
 
 .smallbttn {
   background-color:  #c65800;
+  border: #c65800;
   color: white;
   border-radius: 10px;
 }
